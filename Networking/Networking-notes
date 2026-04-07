@@ -18,4 +18,17 @@ API Calling
 
 Client Request and Response 
 
+How domain store their name by using IP like github.com when we call this github they have a IP address that is calling to this specific domain
+to server.
+
 DNS (Domain Name Server)
+
+Multiple Domains
+TLD( Top Level Domain)
+Authoritative Domain mean is we take server as an example. They store multiple domain address at on same time. for example they store multiple domains
+IP at a time.
+We call this a root than it call TLD and than it call Authoritative domain and than furhter it call authoritative domains to call the specific address they want.
+
+
+
+
