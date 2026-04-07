@@ -30,7 +30,7 @@ IP at a time.
 We call this a root than it call TLD and than it call Authoritative domain and than furhter it call authoritative domains to call the specific address they want.
 
 
-Load Balancing.
+Load Balancing OR Load Balancer
 
 IP Address
 
@@ -38,5 +38,10 @@ Mac Address
 
 Port Number
 
+Algorithum's
+
 Round Robin
+
+
+
 
