@@ -42,6 +42,13 @@ Algorithum's
 
 Round Robin
 
+Database Management
+
+Read and Write Operations
+
+Which thing mostly any website need for example Read or Write. if we look into instagram not every person is uploading daily reels but they 
+are scrolling reads or posts so they definitely need to read more than write. So we distribute the db let say we have 3 db's we reserve 2 for
+read and 1 for write. so this is the better way to do these things.
 
 
 
